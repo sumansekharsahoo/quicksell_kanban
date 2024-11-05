@@ -1,0 +1,36 @@
+.group{
+  width: 19.5rem;
+  margin-right: 1.8rem;
+}
+
+.header{
+  width: 18.5rem;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.details{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.margin{
+  margin-right: 0.7rem;
+}
+
+.options{
+  display: flex;
+  align-items: center;
+}
+
+.btn{
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.btn:hover{
+  background-color: #e2e2e2;
+  border-radius: 4px;
+}

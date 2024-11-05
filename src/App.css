@@ -1,0 +1,10 @@
+body{
+  background-color: #f4f6fa;
+}
+
+.container{
+  min-height: 80vh;
+  padding: 1.5rem 2.5rem;
+  display: flex;
+  overflow-x: auto;
+}
